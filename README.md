@@ -34,13 +34,13 @@ It's contains Python, Data Structure, Data Handling, File Handling, NoSQL, JSON 
 -----
 ### Features
 
-1. [Buy a single or multiple product into inventory]()
-2. [View the products list]()
-3. [Add a single or multiple product to inventory]()
-4. [Update a single or multiple product in existing inventory]()
-5. [Delete a single or multiple product to existing inventory]()
-6. [View the transaction history]()
-7. [Receipt]()
+1. [Buy a single or multiple product into inventory](https://github.com/Giritharan26/Inventory-Management-System-JSON/blob/main/Output/Buy%20a%20single%20or%20multiple%20product%20into%20inventory.PNG)
+2. [View the products list](https://github.com/Giritharan26/Inventory-Management-System-JSON/blob/main/Output/View%20the%20products%20list.PNG)
+3. [Add a single or multiple product to inventory](https://github.com/Giritharan26/Inventory-Management-System-JSON/blob/main/Output/Add%20a%20single%20or%20multiple%20product%20to%20inventory.PNG)
+4. [Update a single or multiple product in existing inventory](https://github.com/Giritharan26/Inventory-Management-System-JSON/blob/main/Output/Update%20a%20single%20or%20multiple%20product%20in%20existing%20inventory.PNG)
+5. [Delete a single or multiple product to existing inventory](https://github.com/Giritharan26/Inventory-Management-System-JSON/blob/main/Output/Delete%20a%20single%20or%20multiple%20product%20to%20existing%20inventory.PNG)
+6. [View the transaction history](https://github.com/Giritharan26/Inventory-Management-System-JSON/blob/main/Output/View%20the%20transaction%20history.PNG)
+7. [Receipt](https://github.com/Giritharan26/Inventory-Management-System-JSON/blob/main/Output/Receipt.PNG)
 
 -----
 ### Who am I?
