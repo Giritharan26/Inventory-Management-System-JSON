@@ -13,6 +13,25 @@ It's contains Python, Data Structure, Data Handling, File Handling, NoSQL, JSON 
 4. txn_list.json - `It's contain transaction history`
 
 -----
+### Product Features
+
+* Product Id
+* Name
+* Price
+* Quantity
+* Expiry Date
+* Category
+
+-----
+### Transaction Features
+
+* Transaction Id
+* Item Count
+* Amount
+* Date & Time
+* Customer Name
+
+-----
 ### Features
 
 1. [Buy a single or multiple product into inventory]()
@@ -32,7 +51,7 @@ My name is Giritharan and I'm a graduated student at TCE. I'm currently working 
 
 ### Other Useful Links:
 
-[LinkedIn](https://www.linkedin.com/in/giritharan-m-2604/) 
+[LinkedIn](https://www.linkedin.com/in/giritharan-m-2604/)
 
 [Instagram](https://instagram.com/giritharan_giri/)
 
