@@ -5,7 +5,7 @@ This repository is having all the codes regarding the Inventory Management Syste
 -----
 ### About the Repository?
 
-It's contains Python, Data Structure, Data Handling, File Handling, JSON to make Inventory Management System. I have added two different file in my IMS code file.
+It's contains Python, Data Structure, Data Handling, File Handling, JSON to make Inventory Management System. I have added two different file formats in my IMS code file.
 1. IMS.py
 1. IMS.ipynb
 
