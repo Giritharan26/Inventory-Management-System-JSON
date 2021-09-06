@@ -45,7 +45,7 @@ It's contains Python, Data Structure, Data Handling, File Handling, NoSQL, JSON 
 -----
 ### Who am I?
 
-My name is Giritharan and I'm a graduated student at TCE. I'm currently working on Python for ML/AI Intern at Elite Techno Groups and I'm passionate about coding and learn new technologies.
+My name is Giritharan and I'm a undergraduated student at TCE. I'm currently working on Python for ML/AI Intern at Elite Techno Groups and I'm passionate about coding and learn new technologies.
 
 -----
 
