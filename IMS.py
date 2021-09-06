@@ -32,7 +32,7 @@ def list_prod(data):
   print("P_Id","Name\t\t","Price\t","Quantity\t","Expiry_date\t","Category")
   print("---------------------------------------------------------------------------")
   for i in data:
-    print(int(i),data[i]['name'],"\t",data[i]['price'],"\t",data[i]['quantity'],"\t\t",data[i]['Expiry date'],"\t",data[i]['category'])
+    print(int(i),data[i]['name'],"\t",data[i]['price'],"\t",data[i]['quantity'],"\t\t",data[i]['Expriy date'],"\t",data[i]['category'])
   print("---------------------------------------------------------------------------\n")
 
 # Show the Transaction list in table format
@@ -162,7 +162,7 @@ elif mo==2:
         prod_exd = input("Enter the product expiry date: ")
         prod_categ = input("Enter the product category: ")
         # update the products
-        data[prod_id] = {"name":prod_name,"price":prod_price,"quantity":prod_qty,"Expiry date":prod_exd,"category":prod_categ}
+        data[prod_id] = {"name":prod_name,"price":prod_price,"quantity":prod_qty,"Expriy date":prod_exd,"category":prod_categ}
         print("Product id:",prod_id, "is added sucessfully\n")
     
     # store the products dict into json file
